@@ -31,6 +31,11 @@ After launching the application you can choose:
 
 All settings are saved automatically.
 
+> [!NOTE]
+> You don't need to enable recording to use the application! \
+> Recording is only necessary if you want to play back the data you received from the device in the future,
+> for example, to configure an external application so as not to wear a headset.
+
 ## Use in VRChat
 
 In order to use in VRChat, you should
