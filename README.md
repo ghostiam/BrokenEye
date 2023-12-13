@@ -52,8 +52,8 @@ for example [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR)
 
 To do this you need:
 
-- Download and install the pre-release version of EyeTrackVR
-  from [releases](https://github.com/EyeTrackVR/EyeTrackVR/releases)
+- Download and install the pre-release version of [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR/releases),
+  recommended version [branch.11](https://github.com/EyeTrackVR/EyeTrackVR/releases/tag/v1.0.0-HSF-and-new-algos-feature-branch.11) or [branch.8](https://github.com/EyeTrackVR/EyeTrackVR/releases/tag/v1.0.0-HSF-and-new-algos-feature-branch.8)
 
 > [!IMPORTANT]
 > Before setting up, make sure you have launched BrokenEye and connected to the device (or loaded a recording).
