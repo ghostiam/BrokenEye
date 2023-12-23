@@ -40,7 +40,7 @@ All settings are saved automatically.
 
 In order to use in VRChat, you should
 install [VRCFaceTracking](https://docs.vrcft.io/docs/vrcft-software/vrcft#install-vrcfacetracking)
-and a plugin for it [VRCFT-Tobii-Advanced](https://github.com/ghostiam/VRCFT-Tobii-Advanced)
+and a plugin for it [PimaxCrystalAdvanced](https://github.com/ghostiam/PimaxCrystalAdvanced)
 
 First run BrokenEye and then VRCFaceTracking.
 
@@ -140,7 +140,7 @@ we get in the loop:
 | byte | 4 bytes (little endian) | Array of bytes |
 
 An example in C# for obtaining eye tracking data can be viewed
-in [this](https://github.com/ghostiam/VRCFT-Tobii-Advanced/blob/main/BrokenEye/Client.cs) file.
+in [this](https://github.com/ghostiam/PimaxCrystalAdvanced/blob/main/BrokenEye/Client.cs) file.
 
 #### Eye tracking data format:
 
