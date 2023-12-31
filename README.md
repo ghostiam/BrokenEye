@@ -36,6 +36,11 @@ All settings are saved automatically.
 > Recording is only necessary if you want to play back the data you received from the device in the future,
 > for example, to configure an external application so as not to wear a headset.
 
+## Sending bug reports
+
+If you find a bug, please report it in the [issues](https://github.com/ghostiam/BrokenEye/issues).
+Please attach a logs and configuration file to the bug report, which can be found in the `C:\Users\<USER>\AppData\Roaming\fyne\com.ghostiam.BrokenEye` folder.
+
 ## Use in VRChat
 
 In order to use in VRChat, you should
