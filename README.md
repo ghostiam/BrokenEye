@@ -17,7 +17,7 @@ BrokenEye is an application that will allow you to obtain more detailed data fro
 
 After launching the application you can choose:
 
-![image](image.png)
+![image](_assets/image.png)
 
 1) Which device will it connect to?
 2) Open data you have already recorded (or record if you are already connected to the device)
@@ -55,38 +55,9 @@ Since we can only receive data on blinking from the tracker, to obtain data on e
 use another application that will send data to BrokenEye via the OSC protocol,
 for example [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR)
 
-To do this you need:
+[How to configure EyeTrackVR](ETVR-configure.md)
 
-- Download and install the pre-release version of [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR/releases),
-  recommended version [branch.11](https://github.com/EyeTrackVR/EyeTrackVR/releases/tag/v1.0.0-HSF-and-new-algos-feature-branch.11) or [branch.8](https://github.com/EyeTrackVR/EyeTrackVR/releases/tag/v1.0.0-HSF-and-new-algos-feature-branch.8)
-
-> [!IMPORTANT]
-> Before setting up, make sure you have launched BrokenEye and connected to the device (or loaded a recording).
-
-After launching EyeTrackVR, you need to configure OSC:
-
-- Go to EyeTrackVR settings
-- Change OSC port to `5555`
-- Restart EyeTrackVR.
-
-Now we need to transfer the image from the cameras to EyeTrackVR:
-
-- Go to the `Both Eyes` tab
-- In the `Camera Address` fields enter:
--
-    - For the left eye: `http://127.0.0.1:5555/eye/left`
--
-    - For the right eye: `http://127.0.0.1:5555/eye/right`
-- Click `Save and Restart Tracking` in both panels.
-- Click `Cropping Mode` in both panels.
-- Select the entire image in both panels.
-- Click `Tracking Mode` in both panels.
-- Ready! (yes, no calibration needed since we don't use camera data for eye tracking)
-
-After this, you will receive eye openness data in BrokenEye (turn on preview and make sure that the `Openness` values
-change depending on how open your eyes, and not just 0% and 100%).
-
-## How to get data
+## How to get data from BrokenEye
 
 There are 2 APIs for receiving data:
 
