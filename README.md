@@ -12,6 +12,9 @@ It also allows you to:
 - Save and load calibration data
 - Record and playback data from device (this is a regular zip).
 
+## BrokenEye features video:
+[![Pimax Crystal with improved eye tracking using additional software](https://img.youtube.com/vi/a_0a2vSXWP0/0.jpg)](https://www.youtube.com/watch?v=a_0a2vSXWP0 "Pimax Crystal with improved eye tracking using additional software")
+
 ## How to install
 
 1. Download the latest version of the application
