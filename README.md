@@ -2,10 +2,15 @@
 
 BrokenEye is an application that will allow you to obtain more detailed data from the Pimax Crystal Eye Tracker, namely:
 
-- Gaze direction (normalized)
+- Gaze direction
+- Eye convergence
 - Pupil diameter
 - Blink / Eye openness ([more details below](#using-an-external-application-to-obtain-eye-openness-data))
 - Streaming images from cameras!
+
+It also allows you to:
+- Save and load calibration data
+- Record and playback data from device (this is a regular zip).
 
 ## How to install
 
