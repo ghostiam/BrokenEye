@@ -1,6 +1,6 @@
 # BrokenEye
 
-BrokenEye is an application that will allow you to obtain more detailed data from the Pimax Crystal Eye Tracker, namely:
+BrokenEye is an application that will allow you to obtain more detailed data from the Tobii Eye Tracker, namely:
 
 - Gaze direction
 - Eye convergence
@@ -11,6 +11,17 @@ BrokenEye is an application that will allow you to obtain more detailed data fro
 It also allows you to:
 - Save and load calibration data
 - Record and playback data from device (this is a regular zip).
+
+## Supported devices
+
+- Pimax Crystal
+- HP Reverb G2 Omnicept Edition
+
+If your headset also supports Tobii tracking and you would like to add support for it to BrokenEye, please open an issue:
+- indicate the full name of the headset
+- check the functionality in [VRCFaceTracking](https://docs.vrcft.io/docs/vrcft-software/vrcft#install-vrcfacetracking) together with the [PimaxCrystalAdvanced](https://github.com/ghostiam/PimaxCrystalAdvanced) plugin (without BrokenEye).
+
+If the plugin works, then there is a high chance of working with BrokenEye.
 
 ## BrokenEye features video:
 [![Pimax Crystal with improved eye tracking using additional software](https://img.youtube.com/vi/a_0a2vSXWP0/0.jpg)](https://www.youtube.com/watch?v=a_0a2vSXWP0 "Pimax Crystal with improved eye tracking using additional software")
