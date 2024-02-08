@@ -2,7 +2,11 @@
 
 > [!WARNING]
 > This software is free and does not attempt to make a profit. \
-> It is intended for non-commercial use only. \
+> \
+> **It is intended for NON-COMMERCIAL use only!** \
+> User is responsible for ensuring that the software is only used in compliance with any Tobii license restrictions (for example, any commercial use requires separate permission from Tobii). \
+> If you want to use the data for commercial purposes, you **MUST** use [Tobii Ocumen](https://www.tobii.com/products/software/data-analysis-tools/tobii-ocumen). \
+> \
 > The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 BrokenEye is an application that will allow you to obtain more detailed data from the Tobii Eye Tracker, namely:
