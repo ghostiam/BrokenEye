@@ -1,3 +1,10 @@
+> [!CAUTION]
+> If you haven't purchased Pimax Crystal yet. \
+> **I DO NOT RECOMMEND YOU BUYING IT!** \
+> Save your nerves and money, avoid the Pimax company. \
+> Promises are not kept! They release a new headset without fixing the old one! \
+> I can't even get a refund for my faulty headset.
+
 # BrokenEye
 
 > [!WARNING]
