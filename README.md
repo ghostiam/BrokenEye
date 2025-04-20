@@ -9,6 +9,14 @@
 > \
 > The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
+> [!CAUTION]
+> #### If you're still considering buying the Crystal, and the existence of this software is a **key factor** in your decision - **now is a good time to stop and think.**
+> I had a lot of issues with it, both software and hardware. \
+> Some promised features were simply cancelled. \
+> Official support is disappointing - you won’t get a warranty or a return after 14 days, even if your headset completely stopped working, as mine did. (In my case, they eventually [contacted me](https://github.com/ghostiam/BrokenEye/issues/8) and issued a refund — but only three months after rejecting my ticket, and only because I posted about it [in this repository](https://github.com/ghostiam/BrokenEye/commit/292d873b735230e0214745ed51f0c3e818f7871e). If you’re not a public person, I’m afraid your chances are close to zero.) \
+> \
+> Right now, I’m using a Quest Pro (which is no longer being produced). It has some downsides compared to the Crystal, but the advantages in ease of use and everyday experience far outweigh them. I can finally just pick up the headset, put it on, and start playing, without a bunch of workarounds or restarting software.
+
 BrokenEye is an application that will allow you to obtain more detailed data from the Tobii Eye Tracker for the best social experience in VR, namely:
 
 - Gaze direction
