@@ -36,7 +36,7 @@ It also allows you to:
 
 If your headset also supports Tobii tracking and you would like to add support for it to BrokenEye, please open an issue:
 - indicate the full name of the headset
-- check the functionality in [VRCFaceTracking](https://docs.vrcft.io/docs/vrcft-software/vrcft#install-vrcfacetracking) together with the [PimaxCrystalAdvanced](https://github.com/ghostiam/PimaxCrystalAdvanced) plugin (without BrokenEye).
+- check the functionality in [VRCFaceTracking](https://docs.vrcft.io/docs/vrcft-software/vrcft#install-vrcfacetracking) together with the [VRCFTTobiiAdvanced](https://github.com/ghostiam/VRCFTTobiiAdvanced) plugin (without BrokenEye).
 
 If the plugin works, then there is a high chance of working with BrokenEye.
 
