@@ -11,6 +11,8 @@
 
 > [!CAUTION]
 > #### If you're still considering buying the Crystal, and the existence of this software is a **key factor** in your decision - **now is a good time to stop and think.**
+> [Attention Potential Pimax Buyers, Pimax is Attempting to Pay People to Talk Positively About Their Products to Boost Their Positive Press.](https://www.reddit.com/r/virtualreality/comments/1ktpecx/attention_potential_pimax_buyers_pimax_is/)
+> 
 > I had a lot of issues with it, both software and hardware. \
 > Some promised features were simply cancelled. \
 > Official support is disappointing - you won’t get a warranty or a return after 14 days, even if your headset completely stopped working, as mine did. (In my case, they eventually [contacted me](https://github.com/ghostiam/BrokenEye/issues/8) and issued a refund — but only three months after rejecting my ticket, and only because I posted about it [in this repository](https://github.com/ghostiam/BrokenEye/commit/292d873b735230e0214745ed51f0c3e818f7871e). If you’re not a public person, I’m afraid your chances are close to zero.) \
