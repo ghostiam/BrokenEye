@@ -1,3 +1,15 @@
+## Project Archived
+
+Thank you to everyone who used this project! I hope it helped you get the most out of your headset.
+
+I’m archiving this repository because I no longer have a Pimax headset, or any other headset with Tobii Eye Tracking support, and there are now several newer alternatives available.
+
+You can still download and use the software as-is, but I won’t be adding new features, bug fixes, or support for additional headsets anymore.
+
+If you’re looking to switch to an alternative, I recommend joining the VRCFaceTracking Discord at https://discord.gg/vrcft, there’s a good chance someone can help you find the best option for your specific headset.
+
+Thanks again!
+
 # BrokenEye
 
 > [!WARNING]
